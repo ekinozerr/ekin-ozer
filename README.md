@@ -1,2 +1,3 @@
 # ekin-ozer
-Hi! I'm Ekin, a freshman in the CS department at Bilkent University. 
+Hi! I'm Ekin.
+I'm a freshman at Bilkent University, studying computer science.
